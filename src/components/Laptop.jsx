@@ -1,5 +1,4 @@
 import '../LapStyle.css'
-import '../DeskStyle.css'
 
 function Laptop() {
 
